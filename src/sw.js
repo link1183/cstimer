@@ -1,7 +1,4 @@
-var urlsToCache = [
-	'.',
-	'css/style.css'
-];
+var urlsToCache = [".", "css/style.css"];
 
 // self.addEventListener('install', function(event) {
 // 	event.waitUntil(
@@ -38,4 +35,4 @@ var urlsToCache = [
 // 	);
 // });
 
-var CACHE_NAME = 'cstimer_cache_0123456989465xx';
+var CACHE_NAME = "cstimer_cache_0123456989465xx";
