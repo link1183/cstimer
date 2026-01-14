@@ -1,4 +1,4 @@
-> ![IMPORTANT]
+> [!IMPORTANT]
 > This is an unofficial fork of the [cstimer project](https://github.com/cs0x7f/cstimer). All credits go to the developer, [cs0x7f](https://github.com/cs0x7f).
 > The modifications made are features that would not fit on the main project, but that I would like to have for myself. I will not take any issues or PRs, as this is just modifications I'm doing for myself.
 
